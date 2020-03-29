@@ -1,0 +1,29 @@
+commit 5257ac182e8e109d803322599b9e423ebc0d406a
+Author: mikicho <pedraza.m@gmail.com>
+Date:   Sat Mar 28 13:32:45 2020 -0400
+
+    word mod 2
+
+commit 9db2188fd1cbfc0b5dabb2ebad79102c397f668d
+Author: mikicho <pedraza.m@gmail.com>
+Date:   Sat Mar 28 13:31:31 2020 -0400
+
+    word mod 1
+
+commit b36ef7c0035b6ccd043e57d32694742c9324709e
+Author: mikicho <pedraza.m@gmail.com>
+Date:   Sat Mar 28 12:12:57 2020 -0400
+
+    color de fondo cambiado en stile.css
+
+commit 8ad0d2a104ef113a26f643f5d9f0458a236093e3
+Author: mikicho <pedraza.m@gmail.com>
+Date:   Sat Mar 28 12:10:41 2020 -0400
+
+    traducido home a inicio
+
+commit dfb20cd212c8e4d2975af51d22c2d04b8df50831
+Author: mikicho <pedraza.m@gmail.com>
+Date:   Sat Mar 28 12:05:24 2020 -0400
+
+    Iniciamos el proyecto
